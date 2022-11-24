@@ -1,0 +1,141 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<translates>
+<!--Game lvl -->
+    <object name="madness">Денежное безумие</object>
+    <object name="10guards">10 стюардов!</object>
+    <object name="selfie">Селфи со звездой</object>
+    <object name="10cones">10 конусов</object>
+    <object name="goal">ГОООООООООООЛ!!!</object>
+    <object name="flag">С флагом</object>
+    <object name="10drinks">10 напитков!</object>
+    <object name="10fireworks">10 феерверков!!</object>
+    <object name="10hotdogs">10 хот-догов!</object>
+    <object name="boom">БУУУУМ!</object>
+    <object name="health">+Здоровье!</object>
+    <object name="welcomeMessage">ПОКАЖИ ИМ!</object>
+    <object name="shareButton">Поделись!</object>
+    <object name="shareMessage">Я продержался </object>
+    <object name="shareMessage2"> в football runner! https://play.google.com/store/apps/details?id=com.NormalGames.FootBallRunner #footballrunner #game #football #runner</object>
+    <object name="shareSubject">Football Runner!</object>
+    <object name="lblTime">Время:</object>
+    <object name="lblGoals">Голы:</object>
+    <object name="lblGuards">Стражи:</object>
+    <object name="lblFlag">Флаш:</object>
+    <object name="lblPhoto">Селфи:</object>
+    <object name="lblCones">Конусы:</object>
+    <object name="lblBonuses">Бонусы:</object>
+    <object name="lblBonusMoney">Наличка:</object>
+    <object name="lblScore">Счет:</object>
+<!--Main Menu -->
+    <object name="shopButton">Магазин</object>
+    <object name="dreamRoomButton">Достижения</object>
+    <object name="leaderBoardButton">Таблица Лидеров</object>
+    <object name="howToPlayButton">Как играть?</object>
+    <object name="runButton">Бежать!</object>
+    <object name="dailyRunTxt">Забег Дня!</object>
+    <object name="nextRewardTxt">Следующая
+награда</object>
+    <object name="rewardTxt">награда
+ 10 000$ </object>
+    <object name="bestTxt">Лучший </object>
+    <object name="lastTxt">Прошлый</object>
+<!--Boosters Selecter -->
+    <object name="chooseBoostersTxt">Выбери усиление!!!</object>
+    <object name="photoBoosterTxt">Фоткай
+чаще!</object>
+    <object name="healthBoosterTxt">Здоровяк!</object>
+    <object name="speedBoosterTxt">Больше
+скорости!</object>
+    <object name="orTxt">Или</object>
+    <object name="allBoostersTxt">Все бонусы! +Суперплащ!</object>
+    <object name="freeAdTxt">Бесплатно! (Реклама)</object>
+    <object name="noBoostersTXT">Усиления не выбраны</object>
+    <object name="goButton">БЕГ</object>
+    <object name="needMoreMoneyTxt">НЕ ХВАТАЕТ ДЕНЕГ</object>
+    <object name="noInternetTxt">НЕТ ИНТЕРНЕТА</object>
+    <object name="noTxt">Нет</object>
+<!--Back -->
+    <object name="backButton">НАЗАД</object>
+<!--Settings -->
+    <object name="languageTxt">ЯЗЫК</object>
+    <object name="vibrationTxt">ВИБРАЦИЯ</object>
+    <object name="onTxt">ВКЛ</object>
+    <object name="offTxt">Выкл</object>
+<!--Shop -->
+    <object name="equipButton">Надеть</object>
+    <object name="unequipButton">Снять</object>
+    <object name="BuyButton">Купить</object>
+    <object name="noAdsButton">Нет рекламе! +100 000$</object>
+<!--Training lvl overall-->
+    <object name="moveReadyTxt">Двигайся когда готов!</object>
+    <object name="nextTxt">Дальше</object>
+    <object name="skipTxt">Пропустить</object>
+<!--Training lvl 1-->
+    <object name="st1HeadTxt">Используй джойстик. Подбери флаг!</object>
+    <object name="st1GoalTxt">-Подбери флаг</object>
+    <object name="st1TipTxt">*Используй джойстик чтобы двигаться</object>
+<!--Training lvl 2-->
+    <object name="st2HeadTxt">Желтая полоска это твое здоровье
+Быстро нажимай кнопку чтобы толкнуть стюарда
+Толкни стюарда 2 раза</object>
+    <object name="st2GoalTxt">-Толкни стюарда один раз</object>
+    <object name="st2Goal2Txt">-Толкни стюарда два раз</object>
+    <object name="st2TipTxt">*Быстро нажимай кнопку</object>
+<!--Training lvl 3-->
+    <object name="st3HeadTxt">Стой на месте и нажми кнопку чтобы сделать селфи
+    Сделай селфи с 2 футбольными звездами</object>
+    <object name="st3GoalTxt">-Сделай селфи с 1 звездой</object>
+    <object name="st3Goal2Txt">-Сделай селфи со 2 звездой</object>
+    <object name="st3TipTxt">*Не двигайся + Кнопка</object>
+<!--Training lvl 4-->
+    <object name="st4HeadTxt">Подбери мяч и забей гол!
+    Держи кнопку чтобы набрать силу
+    Отпусти кнопку чтобы ударить</object>
+    <object name="st4GoalTxt">-Забей гол</object>
+    <object name="st4TipTxt">*Держи чтобы набрать силу, отпусти чтобы ударить</object>
+<!--Achievements-->
+     <object name="achive0Head">Спорт это жизнь</object>
+     <object name="achive0Txt">Выполни забег!</object>
+     <object name="achive1Head">Время побегать!</object>
+     <object name="achive1Txt">Продержись на поле!</object>
+     <object name="achive2Head">Все дело в деньгах...</object>
+     <object name="achive2Txt">Закончи забег со счетом!</object>
+     <object name="achive3Head">Мечта детства</object>
+     <object name="achive3Txt">Забей гол!</object>
+     <object name="achive4Head">Веселье с флагом</object>
+     <object name="achive4Txt">Бегай с флагом!</object>
+     <object name="achive5Head">Самый большой фанат!</object>
+     <object name="achive5Txt">Сделай селфи со звездой!</object>
+     <object name="achive6Head">Попрашайка!</object>
+     <object name="achive6Txt">Налички за 1 безумие!</object>
+     <object name="achive7Head">Быстрее света!</object>
+     <object name="achive7Txt">Получи бонус скорости</object>
+     <object name="achive8Head">Потанцуем?</object>
+     <object name="achive8Txt">Заработай очки фанатов танцуя!</object>
+     <object name="achive9Head">11:11</object>
+     <object name="achive9Txt">Финальный счет 11:11</object>
+     <object name="achive10Head">Все в одном месте</object>
+     <object name="achive10Txt">Сложи все флаги и мяч в центральном круге</object>
+     <object name="achive11Head">Мастер на все руки</object>
+     <object name="achive11Txt">Забей гол с флагом в руке!</object>
+     <object name="achive12Head">Вечеринка!</object>
+     <object name="achive12Txt">Съешь 10 хот-догов!Выпей 10 напитков!Взорви 10 феерверков! Сделай селфи с 5 звездами!</object>
+     <object name="achive13Head">Ненавижу ограничения!</object>
+     <object name="achive13Txt">Сбей ВСЕ конусы!</object>
+     <object name="achive14Head">Настоящее безумие</object>
+     <object name="achive14Txt">Доберись до 10x безумия</object>
+     <object name="achive15Head">Законодатель моды</object>
+     <object name="achive15Txt">Устрой забег со шляпой!</object>
+     <object name="achive16Head">Орлиный глаз!</object>
+     <object name="achive16Txt">Забей гол из центрального круга</object>
+     <object name="achive17Head">Что!?!?!</object>
+     <object name="achive17Txt">Заработай ровно 247$ во время безумия. Ровно 247$.</object>
+
+
+
+    <!--Empty-->
+    <object name="st1Goal2Txt"></object>
+    <object name="st4Goal2Txt"></object>
+
+
+</translates>

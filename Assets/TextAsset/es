@@ -1,0 +1,140 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<translates>
+<!--Game lvl -->
+    <object name="madness">¡Plata loca!</object>
+    <object name="10guards">10 guardias despegados</object>
+    <object name="selfie">Selfie con una ESTRELLA</object>
+    <object name="10cones">10 conos volteados</object>
+    <object name="goal">¡¡¡GOOOOOOOOOOOL!!!</object>
+    <object name="flag">Banderín</object>
+    <object name="10drinks">¡10 bebidas!</object>
+    <object name="10fireworks">¡10 fuegos artificiales!</object>
+    <object name="10hotdogs">¡10 perros calientes!</object>
+    <object name="boom">¡BUUUM!</object>
+    <object name="health">¡+salud!</object>
+    <object name="welcomeMessage">¡CORRE, CORRE, CORRE!</object>
+    <object name="shareButton">¡Compartir!</object>
+    <object name="shareMessage">Sobreviví durante </object>
+    <object name="shareMessage2"> en Football Runner! https://play.google.com/store/apps/details?id=com.NormalGames.FootBallRunner #footballrunner #juego #futbol #correr</object>
+    <object name="shareSubject">¡Football Runner!</object>
+    <object name="lblTime">TIEMPO:</object>
+    <object name="lblGoals">Goles:</object>
+    <object name="lblGuards">Guardias:</object>
+    <object name="lblFlag">TIEMPO CON BANDERÍN:</object>
+    <object name="lblPhoto">ESTRELLAS:</object>
+    <object name="lblCones">Conos:</object>
+    <object name="lblBonuses">Bonificaciones:</object>
+    <object name="lblBonusMoney">PLATA BONIFICADA:</object>
+    <object name="lblScore">Puntuación:</object>
+<!--Main Menu -->
+    <object name="shopButton">TIENDA de gorros</object>
+    <object name="dreamRoomButton">Cuarto de sueños</object>
+    <object name="leaderBoardButton">Marcador</object>
+    <object name="howToPlayButton">Cómo se juega</object>
+    <object name="runButton">CORRER</object>
+    <object name="dailyRunTxt">Carrera diaria</object>
+    <object name="nextRewardTxt">Próxima recompensa en</object>
+    <object name="rewardTxt">recompensa
+     $10 000 </object>
+    <object name="bestTxt">Mejor </object>
+    <object name="lastTxt">Último</object>
+<!--Boosters Selecter -->
+    <object name="chooseBoostersTxt">¡Elige potenciadores!</object>
+    <object name="photoBoosterTxt">Foto
+rápida</object>
+    <object name="healthBoosterTxt">Salud
+extra</object>
+    <object name="speedBoosterTxt">Velocidad
+extra</object>
+    <object name="orTxt">O</object>
+    <object name="allBoostersTxt">¡TODAS LAS BONIFICACIONES! +SUPERCAPA</object>
+    <object name="freeAdTxt">¡GRATIS!
+    (ANUNCIO)</object>
+    <object name="noBoostersTXT">Sin potenciador</object>
+    <object name="goButton">¡YA!</object>
+    <object name="needMoreMoneyTxt">NECESITAS MÁS DINERO</object>
+    <object name="noInternetTxt">SIN INTERNET; INTÉNTALO DE NUEVO</object>
+    <object name="noTxt">No</object>
+<!--Back -->
+    <object name="backButton">Atrás</object>
+<!--Settings -->
+    <object name="languageTxt">Idioma</object>
+    <object name="vibrationTxt">Vibración</object>
+    <object name="onTxt">Sí</object>
+    <object name="offTxt">No</object>
+<!--Shop -->
+    <object name="equipButton">Equipar</object>
+    <object name="unequipButton">Desequipar</object>
+    <object name="BuyButton">Comprar</object>
+    <object name="noAdsButton">¡SIN ANUNCIOS! +$100 000</object>
+<!--Training lvl overall-->
+    <object name="moveReadyTxt">¡Múevete cuando estés listo!</object>
+    <object name="nextTxt">Siguiente</object>
+    <object name="skipTxt">Omitir tutorial</object>
+<!--Training lvl 1-->
+    <object name="st1HeadTxt">Usa el JOYSTICK PARA MOVERTE. ¡RECOGE EL BANDERÍN!</object>
+    <object name="st1GoalTxt">-Recoge el banderín</object>
+    <object name="st1TipTxt">*Usa el joystick para moverte</object>
+<!--Training lvl 2-->
+    <object name="st2HeadTxt">LA BARRA AMARILLA MUESTRA TU SALUD 
+    - DALE AL BOTÓN DE ACCIÓN PARA QUITARTE AL EMPLEADO 
+    - QUÍTATE AL EMPLEADO 2 VECES</object>
+    <object name="st2GoalTxt">-Quítate al EMPLEADO UNA VEZ</object>
+    <object name="st2Goal2Txt">-Quítate al EMPLEADO OTRA VEZ</object>
+    <object name="st2TipTxt">*DALE AL BOTÓN DE ACCIÓN PARA SOLTARTE</object>
+<!--Training lvl 3-->
+    <object name="st3HeadTxt">No te muevas y toca el botón de acción para tomarte una selfie 
+    - TÓMATE una selfie con 2 estrellas del fútbol</object>
+    <object name="st3GoalTxt">-Tómate una selfie con la primera estrella</object>
+    <object name="st3Goal2Txt">-Tómate una selfie con la segunda estrella</object>
+    <object name="st3TipTxt">*No te muevas + BOTÓN de accción</object>
+<!--Training lvl 4-->
+    <object name="st4HeadTxt">¡TOMA EL BALÓN y METE UN GOL! MANTÉN EL BOTÓN DE ACCIÓN PARA AUMENTAR LA POTENCIA DE TIRO Y SUELTA PARA PATEAR</object>
+    <object name="st4GoalTxt">-Mete un gol</object>
+    <object name="st4TipTxt">*MANTÉN PARA AUMENTAR LA POTENCIA SUELTA PARA PATEAR</object>
+<!--Achievements-->
+     <object name="achive0Head">El deporte es todo</object>
+     <object name="achive0Txt">¡Corre un cierto número de veces!</object>
+     <object name="achive1Head">¡A CORRER!</object>
+     <object name="achive1Txt">¡Resiste todo lo que puedas!</object>
+     <object name="achive2Head">La plata es lo que importa...</object>
+     <object name="achive2Txt">¡Termina de correr con la puntuación máxima!</object>
+     <object name="achive3Head">Sueño de la infancia</object>
+     <object name="achive3Txt">¡Mete un gol!</object>
+     <object name="achive4Head">Banderero</object>
+     <object name="achive4Txt">¡Corre con un banderín!</object>
+     <object name="achive5Head">¡El fanático!</object>
+     <object name="achive5Txt">¡Tómate una selfie con una estrella!</object>
+     <object name="achive6Head">Mendigo</object>
+     <object name="achive6Txt">¡Cobra una Plata Loca!</object>
+     <object name="achive7Head">¡Más rápido que la luz!</object>
+     <object name="achive7Txt">Usa bonificaciones de velocidad.</object>
+     <object name="achive8Head">¡A bailar!</object>
+     <object name="achive8Txt">Gana puntos de fans bailando en un campo.</object>
+     <object name="achive9Head">11:11</object>
+     <object name="achive9Txt">Que la puntuación final diga 11:11.</object>
+     <object name="achive10Head">Todo en un lugar</object>
+     <object name="achive10Txt">Pon todos los banderines y el balón en el círculo central al final de la carrera.</object>
+     <object name="achive11Head">Jugador completo</object>
+     <object name="achive11Txt">¡Mete un gol para cada equipo con el banderín en mano!</object>
+     <object name="achive12Head">¡Fiesta!</object>
+     <object name="achive12Txt">Come 10 perros calientes. Toma 10 bebidas. Usa 10 fuegos artificiales. ¡Tómate una selfie con 5 estrellas!</object>
+     <object name="achive13Head">¡Odio las restricciones!</object>
+     <object name="achive13Txt">Derriba TODOS los conos</object>
+     <object name="achive14Head">Locura total</object>
+     <object name="achive14Txt">Alcanza Plata Loca 10x.</object>
+     <object name="achive15Head">Marca tendencia</object>
+     <object name="achive15Txt">¡Corre con un gorro en la cabeza!</object>
+     <object name="achive16Head">Ojo de Halcón</object>
+     <object name="achive16Txt">Haz un gol desde el círculo central.</object>
+     <object name="achive17Head">¡¿Qué?!</object>
+     <object name="achive17Txt">Gana exactamente $247 durante la Plata Loca. Ni más ni menos.</object>
+
+
+    <!--Empty-->
+    <object name="st1Goal2Txt"></object>
+    <object name="st4Goal2Txt"></object>
+
+
+
+</translates>
